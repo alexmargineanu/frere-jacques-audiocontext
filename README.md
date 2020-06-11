@@ -1,5 +1,8 @@
 
+
 ## Sequencing "Frère Jacques" using 1 oscilator 
+
+*Jump directly to **the demo**: [https://playcode.io/619668/](https://playcode.io/619668/)*
 
 I was interacting with [this gorgeous music tutorial](https://observablehq.com/@freedmand/sounds) by Dylan Freedman and stumbled upon this bit:
 
